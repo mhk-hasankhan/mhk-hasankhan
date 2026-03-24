@@ -5,6 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhk-hasan-khan/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhk.mhasankhan@gmail.com)
+[![XING](https://img.shields.io/badge/XING-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/MohammadHasan_Khan/web_profiles)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mhkmhasankhan.netlify.app/)
 
 # 💻 Tech Stack:
