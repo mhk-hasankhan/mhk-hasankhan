@@ -19,7 +19,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mhk-hasankhan&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
-### ✍️ Random Dev Quote
+### ✍️ Developer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
