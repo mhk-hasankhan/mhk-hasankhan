@@ -33,9 +33,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mhk-hasankhan&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=mhk-hasankhan&icon=0&color=0)](https://visitcount.itsvg.in)
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
